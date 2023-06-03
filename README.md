@@ -1,5 +1,5 @@
 ### Hi there 👋
-** I'm front end developer Buket Can Kaya. I focus on creating user-oriented and accessible web experiences in my work. I give importance to writing clean, organized and scalable code while creating user interfaces. Also, I follow up-to-date front end technologies and try to use best practices in my projects.
+ I'm front end developer Buket Can Kaya. I focus on creating user-oriented and accessible web experiences in my work. I give importance to writing clean, organized and scalable code while creating user interfaces. Also, I follow up-to-date front end technologies and try to use best practices in my projects.
 
 - 💬 Ask me about  bkt.can@gmail.com
 - 📫 How to reach me:  https://www.linkedin.com/in/buket-can-kaya/

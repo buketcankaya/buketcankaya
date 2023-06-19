@@ -6,7 +6,7 @@
 - ⚡ I am higly motivated,orginezed,and able to work well both independently and as part of a team.
 - i have skills HTML5,SCSS,JavaScript,React,SASS,Git,VS Code
 
-### 😄 This shows how i worked on my projects and what steps i followed.
+###  This shows how i worked on my projects and what steps i followed.
 
 + Understanding and analyzing project requirements.
 + Creating and developing user interface design.
